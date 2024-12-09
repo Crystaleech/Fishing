@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ba0c5569519c24f9f896cdf3898809, type: 3}
+  m_Name: Capsule Fish
+  m_EditorClassIdentifier: 
+  fishName: Capsule Fish
+  spawnChance: 0.5
+  escapeChance: 0.3
+  minAngle: 26
+  maxAngle: 30
+  fishPrefab: {fileID: 5145316909567106112, guid: b395667f5b46a1f4eb156692c5a6c27d, type: 3}
+  fishSprite: {fileID: 21300000, guid: 05c1f07040ac99e4bb4b86a73ded0ac8, type: 3}
+  maxProgress: 150
+  minLength: 20
+  maxLength: 45
